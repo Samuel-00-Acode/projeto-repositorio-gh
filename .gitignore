@@ -42,7 +42,12 @@ Thumbs.db
 # ===============================
 # These are placeholder files to keep empty directories versioned
 *.gitkeep
-
+# ===============================
+# IDE / Editor configs
+# ===============================
+.vscode/
+.idea/
+*.swp      # arquivos temporários do vim
 
 
 
