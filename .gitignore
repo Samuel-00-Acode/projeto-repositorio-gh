@@ -1,0 +1,48 @@
+# ===============================
+# Build / compilation artifacts
+# ===============================
+build/
+build/bin/
+build/obj/
+*.o
+*.out
+*.exe
+*.tmp
+*.log
+
+# ===============================
+# External libraries / dependencies
+# ===============================
+libs/
+vendor/
+
+# ===============================
+# IDE / Editor configs
+# ===============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===============================
+# Sensitive files
+# ===============================
+*.env
+*.key
+*.pem
+
+# ===============================
+# System files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Git keep for empty folders
+# ===============================
+# These are placeholder files to keep empty directories versioned
+*.gitkeep
+
+
+
+
